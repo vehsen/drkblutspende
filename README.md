@@ -28,6 +28,7 @@ As this is no official API this component can break at any time if they decide t
 ### Example entry for configuration.yaml
 
 ```
+sensor:
 - platform: drkblutspende
   zipcode: 79790
   radius: 10
